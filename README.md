@@ -10,7 +10,7 @@ The purpose of this coursework is to understand the linear programming based ene
 
 Download the files from https://github.com/qufeng107/COMP3217Coursework.git. 
 
-(setup.py/) can be found in the root directory of the project. Run (python setup.py install/) from the directory where (setup.py/) is located.
+`setup.py` can be found in the root directory of the project. Run (python setup.py install/) from the directory where (setup.py/) is located.
 
 
 
